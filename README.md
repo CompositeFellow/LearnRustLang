@@ -1,2 +1,2 @@
 # LearnRustLang
-My coede through the RustBook &amp; Rustlings
+My code through the RustBook &amp; Rustlings
